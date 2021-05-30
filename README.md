@@ -4,7 +4,7 @@ Project developed with Node Js we use dependencies such as ejs, nodemon, express
 ***
 # Work 
 
-First to start we install the node_modules
+First to start we install the node_modules:
 ```npm i ```
 
 
